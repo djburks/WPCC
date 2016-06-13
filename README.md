@@ -43,3 +43,5 @@ An optional rounding parameter can be supplied as a fourth option for the number
 ### INPUT
 
 Each of the three vectors should be entirely numerical and ordered.  Using the above example, a weight of 0.5 corresponds to values 88 and 80 for the dal and san vectors, respectively.  
+
+Assigining an equal-length vector of identicial weights (i.e. [1,1,1,1,1]) will allow you to calculate an unweighted PCC.
