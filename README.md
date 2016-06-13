@@ -10,7 +10,7 @@
 
 Download and extract the WPCC-0.1a.tar.gz archive wherever convenient.
 
-From the WPCC-0.1a folder, type the following:
+From the WPCC-0.1a folder, execute the following command:
 
 ```
 >>> python3 setup.py install
