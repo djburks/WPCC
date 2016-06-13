@@ -8,7 +8,15 @@
 
 ### INSTALLATION
 
-For now, simply download the wpcc.py file and make sure it is in the same directory as your own program.
+Download and extract the WPCC-0.1a.tar.gz archive wherever convenient.
+
+From the WPCC-0.1a folder, type the following:
+
+```
+>>> python3 setup.py install
+```
+
+This will install the module to the appropriate directory for third-party modules.
 
 ### DESCRIPTION
 
