@@ -22,7 +22,7 @@ This will install the module to the appropriate directory for third-party module
 
 WPCC contains a single function (wpearson), that allows users to calculate a weighted Pearson Correlation Coefficient for two vectors.  This was primarily written to find gene co-expression patterns when given a list of genes with accompanying vectors of normalized expression data.  The weights are based on the redundancy of samples from which the expression values were taken.
 
-For more information concerning weighted PCC calculation and gene-coexpression, please see the following journal:
+For more information concerning weighted PCC calculation and gene-coexpression, please see the following journal article:
 
 [Rank of Correlation Coefficient...Obayashi and Kinoshita, 2009 (NCBI)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2762411/)
 
